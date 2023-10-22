@@ -1,7 +1,7 @@
 # LinkedIn Clone
 
-![LinkedIn Clone](![image](https://github.com/sandroamiridze/linkedin-clone/assets/110345189/db6c13e9-7ad9-4e1d-aff0-673e6fe36233)
-)
+![image](https://github.com/sandroamiridze/linkedin-clone/assets/110345189/1d0a5f7f-1d62-4639-9604-691333ec4d09)
+
 
 ## Table of Contents
 
