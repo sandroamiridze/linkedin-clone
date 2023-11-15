@@ -44,7 +44,7 @@ To set up the LinkedIn Clone project, follow these steps:
 1. Clone this repository to your local machine using:
 
    ```shell
-   git clone https://github.com/your-username/linkedin-clone.git
+   git clone https://github.com/sandroamiridze/linkedin-clone.git
 
 Change your directory to the project folder:
 
